@@ -1,0 +1,77 @@
+body
+{
+  background-color: #c8c8c8;
+  margin: 0px 60px 0px 60px;
+}
+a
+{
+    color: red;
+}
+h1
+{
+    font-size: 94px;
+    font-family:'Libre Baskerville';
+}
+h2
+{
+    color: red;
+    font-family:'Libre Baskerville';
+}
+
+figure
+{
+    border: 3px solid red;
+    border-radius: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 700px;
+    width: 1155px;  
+    background: #241e1e;
+}
+img{
+   
+    height: 600px;
+    width: 1100px; 
+    padding: 20px;
+
+}
+figcaption
+{
+    color: white;
+    font-style: italic;
+    text-align: center;
+}
+
+.tete{
+    background-color: #1C1C1C;
+    color: blanchedalmond;
+}
+.bebe
+{
+    background-color: #d8d8d8;
+}
+h1{
+    text-align: center;
+}
+table{
+    border-collapse: collapse;
+}
+.bebe :hover {
+     background-color: #424242;
+     cursor: pointer;
+}
+div{
+    font-family: 'Roboto'; 
+    font-size: 15px;
+    border: dashed blue;
+    color:blue;
+    font-size: 21px;
+    padding: 30px;
+    margin: 0px 50px 30px 50px;
+    background-color:#b7b7b7
+
+}
+p{
+    font-family: 'Roboto';
+}
